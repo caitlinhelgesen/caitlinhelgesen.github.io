@@ -4,7 +4,7 @@ body{
     font-family: arial;
 }
 
-ul{
+nav ul{
 	text-decoration: none;
   list-style-type: none;
   margin: 0;
@@ -12,7 +12,7 @@ ul{
   width: 250px;
   background-color: #cccccc;
 }
-li a{display: block;
+nav li a{display: block;
     padding: 10px;
     color:#000066;
     text-decoration: none;

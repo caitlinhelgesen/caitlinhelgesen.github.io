@@ -19,5 +19,6 @@ nav li a{display: block;
     text-decoration: none;
       }
 
-
+img{height: 150px;
+    width: 150px}
 .current{text-transform: uppercase;}

@@ -4,12 +4,18 @@ body{
     font-family: arial;
 }
 
-li{
+nav a{color: #000066;text-decoration: none}
+ul{
 	text-decoration: none;
-	display:inline;
-	background-color: white;
-	color: black;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  background-color: #cccccc;
 }
-nav a{color: #737373;text-decoration: none}
+li a{display: block;
+    padding: 10px;
+      }
+
 
 .current{text-transform: uppercase;}

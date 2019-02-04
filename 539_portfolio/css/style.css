@@ -1,0 +1,15 @@
+header{font-family: arial;}
+
+body{
+    font-family: arial;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: white;
+	color: black;
+}
+nav a{color: #737373;text-decoration: none}
+
+.current{text-transform: uppercase;}
